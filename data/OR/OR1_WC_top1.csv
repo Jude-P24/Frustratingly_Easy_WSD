@@ -1,0 +1,339 @@
+abbreviation,full_spell,word,word_count,odds_ratio
+APC,activated protein c,anticoagulant,2,8329.0
+AS,active sleep,sleep,117,5211.272401433692
+A-T,adenine-thymine,adenine-thymine,66,18161.88888888889
+APC,adenomatous polyposis coli,us,1977,1509.4563504569808
+AD,adenovirus,virus,325,448973.0
+AD,adrenaline,adrenaline,150,131456.73333333334
+ALD,adrenoleukodystrophy,dystrophy,485,234399.4
+APC,aerobic plate count,aerobic,20,113365.0
+AD,afterdischarge,charge,137,72237.0
+ALD,alanine dehydrogenase,alanine,33,2134.021276595745
+AD,alcohol dependence,alcohol,417,9482.87476280835
+ALD,alcoholic liver disease,sea,512,5473.3185840707965
+ALD,aldolase,aldolase,131,75901.8
+ALD,aldosterone,aldosterone,306,83811.89655172414
+ALD,alendronate,alendronate,56,21966.217391304348
+AS,alport syndrome,Alport,276,1098811.0
+A-T,alternating,alternating,118,53514.6
+AS,alternative splicing,native,422,55541.35294117647
+AD,alzheimer's dementia,Alzheimer,144,1788.6415300546448
+AD,alzheimers disease,Alzheimer,487,24111.026200873363
+APC,anaphase-promoting complex,phase,441,198621.4848484849
+AD,androstenedione,dione,360,126381.0
+AS,angelman syndrome,Angelman,391,1495791.0
+AGU,anhydroglucose units,anhydroglucose,19,1973.4
+AS,ankylosing spondylitis,ankylosing,158,55837.28571428572
+ALD,anterior latissimus dorsi,dorsi,157,9479.04255319149
+APC,anterior piriform cortex,piriform,21,118866.33333333331
+AD,antidepressant,antidepressant,481,630765.0
+APC,antigen-presenting cells,antigen,46,255533.0
+AS,antisense,sense,460,131230.6923076923
+AS,anxiety sensitivity,sensations,10,1511.7640449438202
+AS,aortic stenosis,stenosis,113,5085.939068100359
+ALD,approximate lethal dose,lethal,13,2737.8
+AGU,arabian gulf university,Arabian,22,11295.0
+APC,argon plasma coagulation,coagulation,60,198754.6
+AS,arsenic,arsenic,407,55174.51807228916
+AAPC,artificial antigen-presenting cell,presenting,102,1920.3061224489795
+AAPC,artificial apc,full-length,3,135.12121212121212
+AGU,aspartylglucosaminuria,part,104,5921.666666666667
+AS,asperger syndrome,Asperger,276,113174.31034482758
+ALD,aspirin-like drugs,Aspirin-like,3,32193.0
+A-T,ataxia-telangiectasia,a-t,323,2532.542857142857
+AS,atherosclerosis,atherosclerotic,384,37667.62608695652
+ALD,atomic layer deposition,posit,484,16227.20487804878
+AD,atopic dermatitis,dermatitis,414,714242.7142857143
+AAPC,attenuated adenomatous polyposis coli,Attenuated,12,337.22222222222223
+AD,autistic disorder,autistic,170,3324.1070889894418
+ALD,autoimmune lymphoproliferative disease,lymphoproliferative,7,22945.0
+AD,autosomal dominant,autosomal,258,21278.098039215685
+AAPC,average annual percentage change,age,104,915.2758620689656
+BZS,bannayan-zonana syndrome,Bannayan,11,13317.0
+BZS,benzimidazoles,benzimidazoles,33,2327.133333333333
+BZS,benzodiazepines,benzodiazepine,225,1221.0
+BZS,benzofurazans,benzofurazans,3,4165.0
+CD,cadmium,cadmium,384,70134.52808988764
+CT,calcitonin,calcitonin,379,210303.72
+CRC,calcium release channel,channel,14,19246.333333333332
+CLD,calmodulin-like domain,calmodulin-like,9,43035.0
+CTX,carboxyterminal telopeptides of type i collagen,telopeptide,47,4497.913385826771
+CDM,cardiomyopathy,cardiomyopathy,18,8502.6
+CTX,cardiotoxin,cardiotoxin,233,56844.82978723404
+CTX,cefotaxime,cefotaxim,405,257945.70588235295
+CD,celiac disease,coeliac,393,28637.456621004567
+CLD,central lung distance,central,17,11215.0
+CLD,cephaloridine,cephaloridine,9,14332.333333333334
+CTX,cerebrotendinous xanthomatosis,anthomatosis,368,4051289.0
+CT,charge-transfer,transfer,327,11274.086419753086
+CTX,charybdotoxin,charybdotoxin,166,63065.903225806454
+CDM,chemically defined medium,call,171,3338.8227848101264
+CTX,chemotaxis,chemotaxis,32,133618.33333333334
+CT,chemotherapy,mother,373,346060.2
+CT,chlamydia trachomatis,trachomatis,403,371058.6
+CDM,chlordimeform,chlordimeform,41,13054.714285714286
+CTX,cholera toxin,hole,438,8211.90909090909
+CLD,cholestatic liver disease,Cholestatic,23,1134.865168539326
+CT,chorda tympani,tympani,285,1358409.0
+CDM,chronic disease management,hr,79,768.0508474576271
+CLD,chronic liver disease,iv,477,654.8225602027884
+CLD,chronic lung disease,lung,456,4215.06968641115
+CLD,chronic lymphoproliferative disorders,lymphoproliferative,21,32092.333333333332
+CTX,ciguatoxin,ciguatoxin,246,52918.43396226415
+CT,circadian time,circadian,158,4161.830053667263
+CD,circular dichroism,dichroism,451,485031.4
+CDM,clean development mechanism,Clean,32,2152.878787878788
+CDM,clinical decision-making,akin,70,6295.95652173913
+CLD,clonidine,clonidine,6,9832.333333333334
+CD,cluster of differentiation,differentiation,199,37203.46153846154
+CDM,cold dark matter,matter,24,55909.0
+CRC,colorectal adenocarcinoma,Special,12,2776.6853932584268
+CRC,colorectal cancer,rectal,4739,28730.922480620156
+CLD,combined lipase deficiency,lipase,19,87555.0
+CDM,complex demodulation,demodulation,9,1052.2380952380952
+CT,computed tomography,tomography,696,5382.482131661442
+CRC,concentrated red blood cells,concentrated,4,89901.0
+CD,conduct disorder,order,457,11691.666666666666
+CLD,congenital chloride diarrhea,chloride,38,18813.666666666668
+CLD,congenital lactase deficiency,lactase,12,56475.0
+CDM,congenital myotonic dystrophy,myotonic,37,3069.4444444444443
+CD,conjugated dienes,diene,323,21733.437246963564
+CDM,continuum damage mechanics,damage,21,1396.8857142857144
+CRC,controlled release capsule,controlled-release,4,29961.0
+CRC,convention on the rights of the child,Rights,5,36611.666666666664
+CDM,conventional diagnostic methods,positron,3,2755.6666666666665
+CT,copper toxicosis,toxicosis,16,253341.0
+CTX,cortex,cortex,190,247438.33333333337
+CD,cowden disease,Cowden,55,196669.8
+CRC,creatinine clearance,creatinine,7,49905.0
+CD,crohn's disease,Crohn,536,16433.842105263157
+CD,cyclodextrin,dextrin,495,7911153.0
+CD,cytochalasin d,cytochalasin,296,5828.242603550296
+CD,cytosine deaminase,deaminase,382,179206.7142857143
+CTX,cytotoxicity,cytotoxic,380,118259.4
+CTX,cytoxan,cytoxan,15,6600.862068965517
+DM,daunomycin,daunomycin,71,93847.0
+DDS,death domains,domains,14,7905.4
+DMS,delayed match-to-sample,delayed,79,18148.714285714286
+DMS,delusional misidentification syndromes,misidentification,37,7443.0
+DMS,demarcation membrane system,demarcation,38,38238.2
+DDS,denys-drash syndrome,Denys,116,181134.2
+DM,dermatomyositis,myositis,499,1272526.2
+DM,descemet's membrane,Descemet,343,101874.46666666666
+DMD,desmethyldiazepam,desmethyldiazepam,7,52005.0
+DMD,desmethyldoxepin,desmethyldoxepin,4,31257.0
+DDS,developmental disabilities,disabilities,118,7316.664
+DMS,dexamethasone,dexamethasone,48,18318.07692307692
+DM,dextromethorphan,dextromethorphan,311,51293.666666666664
+DM,diabetes mellitus,mellitus,434,194026.72413793104
+DDS,dialysis disequilibrium syndrome,disequilibrium,58,93670.2
+DDS,diamino diphenyl sulphone,amino,34,792.12
+DDS,diaminodiphenylsulfone,diaminodiphenylsulfone,74,7966.397260273972
+DDS,dietary diversity score,core,210,18366.75903614458
+DMS,differential mobility spectrometry,mobility,158,2622.2337164750957
+DMD,differentially methylated domain,methylated,36,82903.66666666667
+DMS,difficulty maintaining sleep,difficulty,27,12495.0
+DMS,diffuse mesangial sclerosis,sclerosis,40,201123.0
+DMD,digital micromirror device,mirror,291,11240.076923076924
+DMS,diluted magnetic semiconductor,semiconductor,66,64558.2
+DMS,dimethyl suberimidate,suberimidate,44,220275.0
+DMS,dimethyl sulfide,methyl,488,11845.11570247934
+DMD,dimethyldioxirane,dimethyldioxirane,25,174981.0
+DMD,discrete molecular dynamics,dynamics,59,8861.533333333333
+DM,disease management,management,127,5982.422680412371
+DMD,disease-modifying drug,modifying,153,4169.08658008658
+DDS,disorders,disorders,265,111728.64705882352
+DM,distant metastasis,distant,288,9567.99262899263
+DMD,dm digestibility,digestibility,63,6523.892307692307
+DM,dorsomedial,dorsomedial,253,1159847.0
+DMS,double minutes,minute,158,15716.155555555555
+DDS,drug dapsone,immunohematoxicities,2,1206.764705882353
+DDS,drug delivery system,liver,514,51196.96721311475
+DM,dry matter,matter,472,23296.62162162162
+DMD,duchenne muscular dystrophy,Duchenne,849,4505.053601340033
+DMD,duchenne's progressive muscular dystrophy,progressive,24,392.6430446194226
+DDS,duplex doppler sonography,Doppler,9,15583.8
+DMD,dystonia musculorum deformans,dystonia,11,26503.666666666668
+FAP,familial adenomatous polyposis,al,4468,1361.5927977839335
+FAP,familial amyloidotic polyneuropathy,amyloidotic,3,65415.0
+HH,hamburger and hamilton,Hamburger,155,149817.18181818182
+HCP,hamster cheek pouch,cheek,21,23578.333333333332
+HC,head circumference,circumference,346,14427.0
+HD,head direction,direction,154,83504.58620689655
+HUS,head ultrasound,ultrasound,32,14292.777777777776
+HH,head-to-head,head-to-head,111,1203531.0
+HCP,health care personnel,CDC,30,1055.1412639405205
+HCP,health care professionals,professionals,537,944.6508610521348
+HCP,health care provider,provider,443,5511.390168970815
+HC,healthy controls,healthy,399,2195.038182512409
+HD,healthy donors,donor,260,14389.072727272727
+HCP,hearing conservation program,hearing,35,12887.814814814816
+HH,heated humidifier,humidifier,44,492259.0
+HC,heavy chain,chain,442,26677.46913580247
+HCP,heavy charged particles,charged,16,32637.0
+HH,hedgehog,Hedgehog,455,29958.136690647483
+HCP,hematopoietic cell phosphatase,phosphatase,20,8063.88
+HD,hemodialysis,dialysis,654,199346.15555555557
+HUS,hemolytic uremic syndrome,lytic,790,81333.66666666667
+HC,hemorrhagic cystitis,cystitis,297,70310.69230769231
+HH,hemorrhagic hypotension,hemorrhagic,22,35800.71428571428
+HCP,hereditary coproporphyria,porphyria,212,1936725.0
+HH,hereditary hemochromatosis,ered,505,16444.842696629214
+HCP,hexachlorophene,hexachlorophene,56,109949.0
+HCP,hexagonal close-packed,ago,418,164410.7142857143
+HH,hiatal hernia,hernia,310,123976.44
+HD,high density,high-density,146,8044.27797833935
+HC,high-carbohydrate,carbohydrate,404,21913.60363636364
+HD,high-dose,high-dose,347,20875.954356846472
+HC,hippocampus,hippocampus,354,22771.59388646288
+HD,hirschsprung's disease,Hirschsprung,503,1442628.2
+HD,hodgkin's disease,Hodgkin,556,340626.39130434784
+HH,hodgkin-huxley,Hodgkin,208,433596.6
+HD,homeodomain,homeodomain,338,85359.37288135593
+HCP,host cell protein,protein,289,4830.996116504854
+HUS,hounsfield units,Hounsfield,149,104590.2
+HD,house dust,house,83,14036.78947368421
+HUS,human serum,HuS,7,811.2162162162163
+HD,huntington disease,Huntington,527,1072030.7142857143
+HC,hydrocarbon,hydrocarbon,276,328694.6923076923
+HC,hydrocortisone,cortisone,386,1936880.3333333333
+HC,hypercholesterolemia,cholesterol,413,64166.494736842105
+HD,hypertensive disease,Hypertensive,5,358.56378600823047
+HC,hypertrophic cardiomyopathy,myopathy,417,2074975.0
+HH,hypobaric hypoxia,hypoxia,243,9078.179487179486
+HH,hypogonadotropic hypogonadism,gonad,347,34599.536082474224
+HH,hypothalamic hamartoma,hamartoma,251,857615.0
+IVF,idiopathic ventricular fibrillation,fibrillation,104,327085.0
+IDMS,infants of diabetic mothers,diabetic,84,119483.0
+IDDM,infants of drug-dependent mothers,drug-dependent,3,2625.0
+IDDM,insulin-dependent diabetes mellitus,pen,541,526.0285714285715
+IVF,intervertebral foramen,vertebral,21,74433.0
+IVF,intrauterine insemination (iui) or in vitro fertilization,Reprotoxicity,1,1060.2
+IVF,intravenous feeding,feeding,8,5960.2
+IVF,intravenous fluid,venous,119,9682.72972972973
+IDMS,isolated diffuse mesangial sclerosis,diffuse,3,6083.0
+IDMS,isotope dilution mass spectrometry,ss,303,1082.5876288659797
+MJD,machado-joseph disease,Joseph,464,16412.333333333332
+MPS,macrophages,macrophages,442,162382.24137931035
+MPS,macular photocoagulation study,Macular,14,179945.0
+MHP,maintenance hemodialysis patients,maintenance,6,5213.0
+MLD,malignant lymphoproliferative diseases,lymphoproliferative,4,20763.0
+MLD,manual lymphatic drainage,drainage,142,21332.777777777777
+MLD,masking level difference,skin,84,5092.04347826087
+MLD,mathematics learning disabilities,mathematic,55,1276.2063492063492
+MLD,mean lung dose,lung,81,2971.6153846153848
+MHP,median hinge point,median,13,10449.0
+MLD,median lethal dose,lethal,63,5549.122448979592
+MHP,mental health professional,health,88,451.8705882352941
+MHP,metabolic heat production,heat,16,12573.0
+MLD,metachromatic leukodystrophy,dystrophy,507,87628.33333333333
+MPS,methacryloxypropyltrimethoxysilane,methacryloxypropyltrimethoxysilane,65,799493.0
+MPS,methylprednisolone,prednisolone,156,1853273.0
+MLD,microlumbar discectomy,microlumbar,5,25355.0
+MPS,microparticles,microparticles,430,32912.824817518245
+MHP,mild hyperphenylalaninemia,mild,40,2378.4545454545455
+MLD,minimal lumen diameter,diameter,101,47569.666666666664
+MHP,mitochondrial hyperpolarization,hyperpolarization,9,2489.0
+MHP,molecular hydrophobicity potential,hydrophobicity,5,877.8
+MPS,mononuclear phagocyte system,nuclear,474,40508.96694214876
+MHP,monosymptomatic hypochondriacal psychosis,hypochondriacal,8,2238.3333333333335
+MLD,mouse lethal doses,BoNT/E,3,639.8
+MPS,movement proteins,movement,98,2779.785882352942
+MJD,mseleni joint disease,Mseleni,7,14535.0
+MPS,mucopolysaccharidosis,sac,521,44463.35294117647
+MLD,myelin deficient,mld,34,7356.714285714285
+MPS,myeloproliferative syndrome,proliferative,44,13252.317073170732
+MPS,myocardial perfusion scintigraphy,fusion,355,15062.349397590362
+MPS,myofascial pain syndrome,fascia,356,436752.1111111111
+DM,myotonic dystrophy,tonic,478,164991.97297297296
+PAH,p-aminohippurate,hip,387,17379.29184549356
+PAH,paired amphipathic helix,amphipathic,19,48274.2
+PDS,paroxysmal depolarization shifts,paroxysmal,109,64366.09090909091
+PDS,pendred syndrome,Pendred,105,76124.11111111111
+PWS,peripheral waves,oscillations,3,16443.0
+PDS,personality disorders,personality,479,71808.75757575757
+PWS,persons who stutter,stutter,129,35966.46666666667
+PAH,phenylalanine hydroxylase,hydroxylase,448,280655.4705882353
+PDS,phytoene desaturase,desaturase,255,11515.32558139535
+PDS,pigment dispersion syndrome,dispersion,81,76679.85714285714
+PWS,plagiocephaly without synostosis,synostosis,5,25795.0
+PDS,plasma-derived serum,serum,53,51191.857142857145
+PAH,polyallylamine hydrochloride,polyallylamine,77,1754.623352165725
+PAH,polycyclic aromatic hydrocarbons,carbon,484,50554.393939393936
+PDS,population doublings,doublings,83,183310.33333333337
+PWS,port wine stain,wine,456,68475.0
+PAH,postatrophic hyperplasia,atrophic,7,18639.0
+PWS,powdered waste sludge,powdered,6,30459.0
+PDS,power density spectrum,density,20,6640.047619047619
+PDS,power doppler sonography,Doppler,44,27209.727272727272
+PWS,prader-willi syndrome,Prader,499,149739.0
+PAH,predicted adult height,height,68,12054.014492753624
+PWS,preferred walking speed,walking,48,219123.0
+PAH,pregnancy-associated hypertension,pregnancy-associated,16,1509.9333333333334
+PWS,pressure waves,waves,10,4438.636363636364
+PAH,primary adrenal hyperplasia,adrenal,7,18639.0
+PDS,program directors,directors,293,13138.30081300813
+PDS,public dental service,vice,71,12688.351351351352
+PAH,pulmonary arterial hypertension,tension,1027,67748.17073170732
+PAH,pulmonary hypertension,tension,335,1805.5109489051097
+SWS,safe water system,household,8,12937.0
+SJS,schwartz-jampel syndrome,Schwartz-Jampel,60,219131.0
+SJS,septate junctions,SJs,41,7228.9047619047615
+SWS,sex workers,workers,87,123958.33333333331
+SWS,shock waves,hoc,39,7559.95652173913
+SWS,shockwaves,shockwaves,6,29757.0
+SWS,short-wavelength-sensitive,wavelength,76,328797.0
+SJS,sjögren's syndrome,SjS,309,9944.194805194806
+SWS,slow wave sleep,sleep,458,19955.666666666668
+SWS,stab wounds,wounds,20,92701.0
+SJS,stevens-johnson syndrome,Johnson,486,83943.36363636363
+SWS,stimulated whole saliva,saliva,24,3297.848484848485
+SWS,sturge-weber syndrome,Sturge,367,1151745.0
+SWS,stuve-wiedemann syndrome,Wiedemann,31,46977.0
+SJS,swyer-james syndrome,Swyer,12,47675.0
+SJS,synaptic junctions,Synaptic,6,1175.571428571429
+SWS,systolic wall stress,wall,8,2269.0
+TSD,t-shaped domain,T-shaped,3,12747.0
+TSD,target site duplications,duplication,33,23543.8
+TSD,target to skin distance,distance,3,4244.333333333333
+TSD,tay-sachs disease,Sachs,158,43256.09090909091
+TSD,temperature-dependent sex determination,dependent,270,16454.317073170732
+TSD,template-and-sequence-directed,template-,4,16371.0
+TSD,theory of signal detection,detectability,2,824.0909090909091
+TSD,thermionic specific detection,thermionic,8,3405.6666666666665
+TSD,tooth size discrepancies,tooth,17,62755.0
+TSD,total sleep deprivation,deprivation,356,4714.442424242424
+UPD,underpotential deposition,potential,114,6588.657142857143
+UPD,uniparental disomy,parental,432,38156.11111111111
+UPD,unpaired,STAT,41,2445.3076923076924
+VHL,vertical hemilaryngectomy,vertical,4,8847.0
+vWf,vibration-induced white finger,white,167,46182.142857142855
+VHL,von hippel-lindau,Hippel,477,6303.0
+vWf,von willebrand factor,Willebrand,470,37326.333333333336
+vWf,vw-factor,biology,1,153.48
+WD,walking distance,walking,19,4315.628571428571
+WT,walking test,walk,37,4000.757575757576
+WT,wall thickness,wall,207,32626.904761904763
+WD,wallerian degeneration,Wallerian,134,36295.07407407407
+WT,ward's triangle,triangle,16,176781.0
+WT,warthin's tumor,Warthin,106,47739.782608695656
+WD,water deficit,deficit,130,6411.367346938776
+WD,water deprivation,deprivation,92,3630.5026455026455
+WFS,wave field synthesis,synthesis,7,5265.0
+WFS,wavefront sensor,wavefront,51,8961.0
+WT,wavelet transform,form,342,3442.541613316261
+WT,weight,weight,416,758529.8
+WD,well-differentiated,differentiated,235,46306.02857142857
+WT,well-trained,well-trained,49,58113.0
+WD,western diet,ester,471,20841.03100775194
+WD,whipple's disease,Whipple,158,228303.4
+WT,wild-type,wild,694,38941.255319148935
+WT,wilms tumor,Wilms,482,4270125.0
+WD,wilson disease,Wilson,501,975250.3333333334
+WT,wingate test,Wingate,33,13184.111111111111
+WD,winter dysentery,dysentery,26,205057.0
+WD,wolffian duct,Wolffian,50,128573.0
+WFS,wolfram syndrome,Wolfram,78,10833.0
+WD,wolman disease,Wolman,46,118637.0
+WFS,world fertility survey,World,21,13889.0
+WT,wortmannin,wortmannin,119,23904.686274509804
