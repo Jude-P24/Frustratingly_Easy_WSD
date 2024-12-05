@@ -1,4 +1,4 @@
-# Frustratingly Easy WSD
+# Abbreviation Expansion using only a Single Word as Context
 
 ### Abstract
 Accurate interpretation of medical abbreviations is essential for clinical
